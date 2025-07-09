@@ -1,7 +1,7 @@
 import { Client } from "https://cdn.jsdelivr.net/npm/@gradio/client/dist/index.min.js";
 
 // Configuración inicial
-const GRADIO_URL = "https://ed3bd0b951c47f5a1d.gradio.live/";
+const GRADIO_URL = "https://f497db0ab8f812cc88.gradio.live/";
 let gradioClient;
 
 // Inicializar conexión con Gradio
